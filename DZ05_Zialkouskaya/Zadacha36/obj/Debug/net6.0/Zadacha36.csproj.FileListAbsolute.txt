@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\bin\Debug\net6.0\Zadacha36.exe
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\bin\Debug\net6.0\Zadacha36.deps.json
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\bin\Debug\net6.0\Zadacha36.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\bin\Debug\net6.0\Zadacha36.dll
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\bin\Debug\net6.0\Zadacha36.pdb
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\obj\Debug\net6.0\Zadacha36.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\obj\Debug\net6.0\Zadacha36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\obj\Debug\net6.0\Zadacha36.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\obj\Debug\net6.0\Zadacha36.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\obj\Debug\net6.0\Zadacha36.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\obj\Debug\net6.0\Zadacha36.dll
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\obj\Debug\net6.0\refint\Zadacha36.dll
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\obj\Debug\net6.0\Zadacha36.pdb
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\obj\Debug\net6.0\Zadacha36.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MyC#\DZ05_Zialkouskaya\Zadacha36\obj\Debug\net6.0\ref\Zadacha36.dll
