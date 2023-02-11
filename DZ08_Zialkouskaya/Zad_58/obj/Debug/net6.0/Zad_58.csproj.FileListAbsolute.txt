@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\bin\Debug\net6.0\Zad_58.exe
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\bin\Debug\net6.0\Zad_58.deps.json
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\bin\Debug\net6.0\Zad_58.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\bin\Debug\net6.0\Zad_58.dll
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\bin\Debug\net6.0\Zad_58.pdb
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\obj\Debug\net6.0\Zad_58.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\obj\Debug\net6.0\Zad_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\obj\Debug\net6.0\Zad_58.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\obj\Debug\net6.0\Zad_58.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\obj\Debug\net6.0\Zad_58.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\obj\Debug\net6.0\Zad_58.dll
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\obj\Debug\net6.0\refint\Zad_58.dll
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\obj\Debug\net6.0\Zad_58.pdb
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\obj\Debug\net6.0\Zad_58.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MyC#\DZ08_Zialkouskaya\Zad_58\obj\Debug\net6.0\ref\Zad_58.dll
